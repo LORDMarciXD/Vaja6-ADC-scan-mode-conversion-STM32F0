@@ -1,1 +1,4 @@
-# Vaja6-ADC-scan-mode-conversion-STM32F0
+# ODGOVORI
+
+c) PC0
+d) PC1 in PC2, PC
