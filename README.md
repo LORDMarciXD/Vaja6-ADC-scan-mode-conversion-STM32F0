@@ -9,3 +9,5 @@ i) Synchronous clock mode divided by 4
 k) Ni bilo opcije za spremenitev v novem programu (updated CubeMX).
 l) 126 ms
 m) byte
+
+d) DMA pomeni Direct Memory Access
