@@ -1,5 +1,6 @@
 # ODGOVORI
 
+# 2.
 c) PC0
 d) PC1 in PC2, PC
 g) GPIO_Analog ADC IN10
@@ -10,4 +11,7 @@ k) Ni bilo opcije za spremenitev v novem programu (updated CubeMX).
 l) 126 ms
 m) byte
 
+# 3.
 d) DMA pomeni Direct Memory Access
+
+# KOMENTAR
