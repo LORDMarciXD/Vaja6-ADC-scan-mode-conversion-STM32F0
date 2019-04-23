@@ -15,3 +15,4 @@ m) byte
 d) DMA pomeni Direct Memory Access
 
 # KOMENTAR
+Naloga sicer ni bila težka vendar sva jo morala ponavljati štiri-krat saj je prišlo do težav z CubeMX, Kail ter računalnikom. 
